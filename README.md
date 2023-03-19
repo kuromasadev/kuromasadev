@@ -1,7 +1,7 @@
 # RDA_AlbertoPonce
  Rice University Data Analytics Bootcamp Submissions FY2023 
 
-![[7d9ae803d910a37eba2b80ba02f741a0.jpg]]
+![image](Public_Photos/7d9ae803d910a37eba2b80ba02f741a0.jpg)
 > Definitely not me, but midjourney's interpretation of me
 
 ## Active Projects 
