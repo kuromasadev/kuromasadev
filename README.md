@@ -1,5 +1,5 @@
 # about me
-Alberto Ponce - Multidisciplinary, driven Planner and Analyst with a passion for interpreting large data into a simple stories. Adept at working independently and collaborating with teams across multiple roles and functions, particular expertise with large organizations.
+Multidisciplinary, driven Planner and Analyst with a passion for interpreting large data into a simple stories. Adept at working independently and collaborating with teams across multiple roles and functions, particular expertise with large organizations.
 
 ## tech stack
 ![](https://camo.githubusercontent.com/ec955ee7ac185b63b3283cfe01f13fcf4b0d2262367156cae633df7e70599b39/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d776869746526636f6c6f723d464636363030)
