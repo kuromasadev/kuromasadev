@@ -14,4 +14,10 @@ Multidisciplinary, driven Planner and Analyst with a passion for interpreting la
 
 
 #### Data Analytics Research Topics
-[] ***10 steps towards resiliency*** (https://albertorafaelponce.com/gis#/10dp/)
+[ ] Housing for All | https://albertorafaelponce.com/gis#/housing4all/
+● A graphic study model of modular vertical housing envisions solving the
+problem of housing for the socioeconomic lower class.
+
+[ ] Sustainable Infills | https://albertorafaelponce.com/gis#/landvalueparks/
+● Design proposal schema to utilize infographics and data analysis to obtain public
+support for using undeveloped vacant land as accessible local amenities.
