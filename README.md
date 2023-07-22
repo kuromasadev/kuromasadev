@@ -7,7 +7,6 @@ Multidisciplinary, driven Planner and Analyst with a passion for interpreting la
 ## non-repository projects
 
 #### Data Analytics Dasboards
-[] ***Freight Generators in Harris County*** (https://storymaps.arcgis.com/stories/fc73588284df434cbe2422b7e6ef845e)
 
 [] ***High Injury Network in Unincorporated Harris County*** (https://hcpid.maps.arcgis.com/apps/dashboards/cd46a4d03d984f9a92e26cee3ed09287)
 
