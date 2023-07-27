@@ -8,6 +8,8 @@ Multidisciplinary, driven Planner and Analyst with a passion for interpreting la
 
 #### Data Analytics Dasboards
 
+[] ***CitiBike NYC FY23 Q1 & Q2 Data Explorer*** (https://public.tableau.com/app/profile/kuromasa.dev/viz/CitiBike2023Dashboard/Story1)
+
 [] ***High Injury Network in Unincorporated Harris County*** (https://hcpid.maps.arcgis.com/apps/dashboards/cd46a4d03d984f9a92e26cee3ed09287)
 
 
