@@ -6,7 +6,7 @@ Multidisciplinary, driven Planner and Analyst with a passion for interpreting la
 
 ## non-repository projects
 
-#### Data Analytics Dasboards
+#### Data Analytics Dashboards
 
 [] ***CitiBike NYC FY23 Q1 & Q2 Data Explorer*** (https://public.tableau.com/app/profile/kuromasa.dev/viz/CitiBike2023Dashboard/Story1)
 
