@@ -8,7 +8,8 @@ visit me at www.albertorafaelponce.com
 HTML5 // PYTHON // MONGODB // NODEJS// NPM // VSCODE
 
 ## upcoming projects 
-- Solar Energy Production/Consumption Dashboard (2023-2024)
+- Appraisal District Parcel Analysis within Transit Service Area Zone
+- Traffic Analysis Zone Explorer
 - batch UI/UX updates to main website
 
 
